@@ -4,3 +4,4 @@ output
 submission.csv
 catboost*
 .vscode
+.ipynb*
